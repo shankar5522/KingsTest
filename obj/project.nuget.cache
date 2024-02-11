@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHf4HkxEmjn03hYZZYvWxJX4i2YqRtrrYgQ4uSG2MxU2BDwyKBXBut7U2i9/XasGGJ6VUiY+NGv3PSpkoRWqew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shankar Gupta\\Desktop\\CSharpProject\\KingsTest\\KingsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shankar Gupta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Shankar Gupta\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Shankar Gupta\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shankar Gupta\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
